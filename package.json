@@ -1,0 +1,19 @@
+{
+  "name": "@guillaumesay/mathfuncs",
+  "version": "1.0.0",
+  "description": "A package that does simple addition, multiplication, & substraction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillaume250/mathFuncs.git"
+  },
+  "author": "Guillaume Sayinzoga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillaume250/mathFuncs/issues"
+  },
+  "homepage": "https://github.com/guillaume250/mathFuncs#readme"
+}
